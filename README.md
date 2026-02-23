@@ -4,3 +4,5 @@ Hello Brse git
 I can do it, chaizo
 Exersice 1: Git flow basic for me
 Excecise2: work on feature branch
+Work on feature test branch
+hello new feature branch
