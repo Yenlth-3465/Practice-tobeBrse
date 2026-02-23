@@ -7,3 +7,4 @@ Excecise2: work on feature branch
 Work on feature test branch
 hello new feature branch
 Test merge pull request to main
+check conflict
